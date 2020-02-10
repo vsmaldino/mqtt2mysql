@@ -29,6 +29,7 @@ connectparams = {
     'password': 'dbpass',
     'host': 'mysql.myhost.it',
     'database': 'sensors',
+    'ssl_disabled' : True,  
     'port': 3306
 }
 # End of Global Variables
